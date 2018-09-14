@@ -1,0 +1,51 @@
+#banner{
+	margin-top: 5px;
+	overflow: none;
+	text-align: center;
+}
+#banner_header{
+	position: fixed;
+	top: 0px;
+	font-family: cursive;
+	margin: 0px auto;
+	width: 100%;
+	background: #000;
+}
+#mainlogo{
+	background-image: url(http://localhost/diagnosis/images/logo.png);
+	height: 34px;
+	width: auto;
+	margin-top: 13px;
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+	background-position: center;
+  	-webkit-background-size: contain;
+  	-moz-background-size: contain;
+  	-o-background-size: contain;
+  	background-size: contain;
+  	background-repeat: no-repeat;
+  	text-align: center;
+}
+#bh1{
+	font-size: 30px;
+	color: #fff;
+}
+#bh2{
+	font-size: 14px;
+	color: #fc6800;
+	margin-top: -20px;
+	margin-bottom: 13px;
+}
+#bh1 #s1{
+	color: #fc6800;
+	text-shadow: 5px 5px 15px #fff;
+	-moz-text-shadow: 5px 5px 15px #fff;
+	-webkit-text-shadow: 5px 5px 15px #fff;
+}
+#bc-wrap{
+	width: 100%;
+	margin: 0px auto;
+	margin-top: 110px;
+	position: fixed;
+}
